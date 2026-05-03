@@ -2,7 +2,7 @@
 
 Mimi is a cat. A studious one. And she's figured out something most people spend years trying to learn — if you want to actually get something done, you need to stop pretending you can do everything at once.
 
-So she built this app.
+So I built this solution.
 
 ---
 
@@ -26,7 +26,7 @@ While you're working, it tracks how long you've stayed focused and counts every 
 
 ## Why it works
 
-The concept is borrowed from something Mimi takes seriously: **single-tasking**. There's a real cost to splitting your attention — context switching kills depth, and depth is where actual progress happens. This app doesn't block distractions. It just makes them uncomfortable enough that you stop reaching for them.
+The concept is borrowed from something Mina takes seriously: **single-tasking**. There's a real cost to splitting your attention — context switching kills depth, and depth is where actual progress happens. This app doesn't block distractions. It just makes them uncomfortable enough that you stop reaching for them.
 
 ---
 
