@@ -8,7 +8,7 @@ So I built this solution.
 
 ## What it does
 
-The moment you leave the Focus Mimi tab, it takes a photo of you and sets off an alarm. No warnings. No "are you sure?" dialogs. Just immediate, cat-approved consequences.
+The moment you leave the Focus Mimi tab, it takes a photo of you and sets off an alarm. No warnings. No "are you sure?" dialogs. Just immediate.
 
 While you're working, it tracks how long you've stayed focused and counts every time you slipped away. That's it. Simple by design.
 
